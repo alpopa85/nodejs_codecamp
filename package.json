@@ -2,12 +2,16 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Alex Popa",
 	"description": "NodeJS Backend Tutorial",
-	"keywords": ["freecodecamp", "node", "js"],
+	"keywords": [
+		"freecodecamp",
+		"node",
+		"js"
+	],
 	"license": "MIT",
 	"version": "0.9",
 	"dependencies": {
 		"express": "^4.14.0",
-    "moment": "2.14.0"
+		"moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
