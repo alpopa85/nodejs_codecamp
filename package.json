@@ -8,7 +8,7 @@
 		"js"
 	],
 	"license": "MIT",
-	"version": "0.9",
+	"version": "1.0.9",
 	"dependencies": {
 		"express": "^4.14.0",
 		"moment": "2.10.2"
