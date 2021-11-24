@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Alex Popa",
+	"description": "NodeJS Backend Tutorial",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
