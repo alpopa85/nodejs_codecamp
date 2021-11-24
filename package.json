@@ -3,6 +3,7 @@
 	"author": "Alex Popa",
 	"description": "NodeJS Backend Tutorial",
 	"keywords": ["freecodecamp", "node", "js"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
