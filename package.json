@@ -4,6 +4,7 @@
 	"description": "NodeJS Backend Tutorial",
 	"keywords": ["freecodecamp", "node", "js"],
 	"license": "MIT",
+	"version": "0.9",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
